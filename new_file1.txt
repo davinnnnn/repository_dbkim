@@ -1,2 +1,6 @@
 Hello! My name is Da Bin Kim.
-Kumoh National Institute of Technology.
+KIT(Kumoh National Institute of Technology.)
+
+Computer Sciences
+Python Programmming
+Object-oriented programming
